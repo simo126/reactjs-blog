@@ -2,7 +2,11 @@
 
 Welcome to the repository for My Blog, a simple blogging platform built with React and utilizing a locally hosted JSON server for data storage!
 
-<img src="/public/Screenshot 2024-04-23 232715.png" >
+<img src="/public/HomePage.png" alt="HomePage - Sbaiti Mohammed" >
+<img src="/public/Blog.png" alt="Blog - Sbaiti Mohammed">
+<img src="/public/ModifyBlog.png" alt="ModifyBlog - Sbaiti Mohammed">
+<img src="/public/AddBlog.png" alt="Addblog - Sbaiti Mohammed">
+<img src="/public/BlogAdded.png" alt="blogAdded - Sbaiti Mohammed">
 
 ## Description
 
